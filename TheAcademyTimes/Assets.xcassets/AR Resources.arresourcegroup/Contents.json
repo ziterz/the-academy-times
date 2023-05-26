@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "badminton.arreferenceimage"
+    },
+    {
+      "filename" : "billiard.arreferenceimage"
+    },
+    {
+      "filename" : "bintan.arreferenceimage"
+    },
+    {
+      "filename" : "gogon.arreferenceimage"
+    },
+    {
+      "filename" : "robot.arreferenceimage"
+    },
+    {
+      "filename" : "volleyball.arreferenceimage"
+    },
+    {
+      "filename" : "wwdc.arreferenceimage"
+    }
+  ]
+}

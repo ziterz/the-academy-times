@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "volleyball.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 2.6520000000000001
+  }
+}
